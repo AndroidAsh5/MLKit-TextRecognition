@@ -1,0 +1,2 @@
+com/google/mlkit/showcase/translate/BuildConfig.java
+ com.google.mlkit.showcase.translate.BuildConfig

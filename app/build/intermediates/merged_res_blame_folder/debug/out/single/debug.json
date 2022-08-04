@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/build/intermediates/merged_res/debug/drawable_greyscale_regular_3x.png.flat",
+        "source": "/Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/res/drawable/greyscale_regular_3x.png"
+    },
+    {
+        "merged": "/Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/build/intermediates/merged_res/debug/layout_main_fragment.xml.flat",
+        "source": "/Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/res/layout/main_fragment.xml"
+    },
+    {
+        "merged": "/Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/build/intermediates/merged_res/debug/drawable_logo_mlkit.xml.flat",
+        "source": "/Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/res/drawable/logo_mlkit.xml"
+    },
+    {
+        "merged": "/Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/build/intermediates/merged_res/debug/layout_main_translateshowcase_activity.xml.flat",
+        "source": "/Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/res/layout/main_translateshowcase_activity.xml"
+    },
+    {
+        "merged": "/Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/build/intermediates/merged_res/debug/font_pt_sans.ttf.flat",
+        "source": "/Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/res/font/pt_sans.ttf"
+    }
+]

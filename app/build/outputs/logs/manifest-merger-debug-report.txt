@@ -1,0 +1,427 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.0] /Users/ashmeet/.gradle/caches/transforms-3/4729139768edc7052fcb88485d0c10f3/transformed/jetified-fragment-ktx-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/ashmeet/.gradle/caches/transforms-3/e643e541cdfc5e01579977f180960e39/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /Users/ashmeet/.gradle/caches/transforms-3/b696ab3a2de8362115ac77ccd2c93887/transformed/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/ashmeet/.gradle/caches/transforms-3/10ec6a89b1c65a6845e6692012483bcf/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/ashmeet/.gradle/caches/transforms-3/6087ac5c0448c0d4b1dba75225b7258d/transformed/constraintlayout-2.1.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.camera:camera-view:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/191cd239e170acb42a7e6f034251d194/transformed/jetified-camera-view-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/ashmeet/.gradle/caches/transforms-3/acd056d532514b600717ba78b9b3e38d/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ashmeet/.gradle/caches/transforms-3/f615e1e3666c9178d42781cd36e2d317/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/a479b73ea512f11e558324cd425582b5/transformed/jetified-play-services-mlkit-text-recognition-18.0.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/eb6aad372ca2d51d8606dd91678889ca/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:vision-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8e56b0836a2bb7717b82e4267ca2077b/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/938dee0e15cd919efef3ac50dab0528a/transformed/jetified-common-18.0.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/ashmeet/.gradle/caches/transforms-3/f46645fd1631e30ab9c5229bdc1dd4f3/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.mlkit:vision-interfaces:16.0.0] /Users/ashmeet/.gradle/caches/transforms-3/e8f71c3a030d9ec87e923bc075a30521/transformed/jetified-vision-interfaces-16.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/ashmeet/.gradle/caches/transforms-3/8d2a640812bb639aa10836ba5da06125/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/ca27bc47b243d8c14a634eab23fc61fe/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.4.0] /Users/ashmeet/.gradle/caches/transforms-3/e36a331303d23df16a988b6e9fdf0b4c/transformed/fragment-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/ashmeet/.gradle/caches/transforms-3/863247b27265fd62b86e7a13753e5e6c/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.camera:camera-camera2:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/17fa7fb3aa1a923077907cd3812443c3/transformed/jetified-camera-camera2-1.1.0/AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.camera:camera-lifecycle:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/82ec1b37394dfbfcf17283c59d9211c8/transformed/jetified-camera-lifecycle-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-core:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/5dec9d64e7298f9204ecf0742e26cd3a/transformed/jetified-camera-core-1.1.0/AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/ashmeet/.gradle/caches/transforms-3/2231cdb09ab1d4f5ef013f245b872bf8/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/71f196b057b03c77b769a63127e6df0a/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/ashmeet/.gradle/caches/transforms-3/ea9d483e80c81d5dde21a7a44fde2a21/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/ashmeet/.gradle/caches/transforms-3/f8bd146b455a2f843e6d67cc3dd97205/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/eddee3d74d8dcef383ffce1e477b841f/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /Users/ashmeet/.gradle/caches/transforms-3/0db8e0e9b3d2ca999715d00677db6414/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/ashmeet/.gradle/caches/transforms-3/0ac420f127b622a02fb1bba5069f150b/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/48bc417d4d179a0dfec0ca2da291be6f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/e745d6f2b2eeca6bdd3adead3c0514b1/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8196120eb6727bf8972d321e4231c09a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/0a87feb3b1cccbf1f938e6f40e3eb4b2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/51059321763addebdde096ad9d61f48a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/07d8400db647b687233dec0ecad0db7e/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/45f5936b7791798dac6fd617b7f81156/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/ashmeet/.gradle/caches/transforms-3/010a7088c475d6fbe6b859ee8629d29c/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/7d2e6e6d6c61cd6557d7cd527403feca/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/81b67cee160d2f4a9271015c4feeefe5/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/ashmeet/.gradle/caches/transforms-3/9c2d4f94859a1a37bb421094b2616e0b/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/ashmeet/.gradle/caches/transforms-3/9cf72e2f5814752e723f32ebf91eb52e/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/ashmeet/.gradle/caches/transforms-3/8d4e9b96718e9719aaccff952726656e/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ashmeet/.gradle/caches/transforms-3/b7075175b38bdc3d007a732fee5330a5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/ashmeet/.gradle/caches/transforms-3/217100170a0368c6e5870a7bd8759e4c/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ashmeet/.gradle/caches/transforms-3/2b7383152587b693263cdace0114c8e9/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/ashmeet/.gradle/caches/transforms-3/46ddbf4191780b2d7e612100f0bd2ac8/transformed/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ashmeet/.gradle/caches/transforms-3/67d7f09918ca2ae894fef057a95fe155/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/dfce43fab7c21ac1c67c664e54d533e7/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/19a7cb87f52b52d5d8fa2f53aabf74d1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ashmeet/.gradle/caches/transforms-3/886f1cb4e4480429f629c96cc9af73db/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ashmeet/.gradle/caches/transforms-3/d1234e8cab268ef9c3ea97ffc271ef38/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/ashmeet/.gradle/caches/transforms-3/5ff7299f7f5234017af6dbe4b23087a4/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/ashmeet/.gradle/caches/transforms-3/0ff7492f3eca726568bbb749d84bba78/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/ashmeet/.gradle/caches/transforms-3/48f2fa7ee089970e88bb7eb1986856fb/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/576778f036f505fdd2883bd691bc1fb6/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/5b06717db7564881b7d4052b6972a133/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/ashmeet/.gradle/caches/transforms-3/3ac682d18341e1efea52ffe4ec0a6342/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:5:3-63
+	android:name
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:5:20-60
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:6:3-65
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ashmeet/.gradle/caches/transforms-3/886f1cb4e4480429f629c96cc9af73db/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ashmeet/.gradle/caches/transforms-3/886f1cb4e4480429f629c96cc9af73db/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:6:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:7:3-77
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ashmeet/.gradle/caches/transforms-3/886f1cb4e4480429f629c96cc9af73db/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ashmeet/.gradle/caches/transforms-3/886f1cb4e4480429f629c96cc9af73db/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ashmeet/.gradle/caches/transforms-3/d1234e8cab268ef9c3ea97ffc271ef38/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ashmeet/.gradle/caches/transforms-3/d1234e8cab268ef9c3ea97ffc271ef38/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:7:20-74
+application
+ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:9:3-28:17
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/ashmeet/.gradle/caches/transforms-3/6087ac5c0448c0d4b1dba75225b7258d/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/ashmeet/.gradle/caches/transforms-3/6087ac5c0448c0d4b1dba75225b7258d/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ashmeet/.gradle/caches/transforms-3/f615e1e3666c9178d42781cd36e2d317/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ashmeet/.gradle/caches/transforms-3/f615e1e3666c9178d42781cd36e2d317/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/eb6aad372ca2d51d8606dd91678889ca/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/eb6aad372ca2d51d8606dd91678889ca/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8e56b0836a2bb7717b82e4267ca2077b/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8e56b0836a2bb7717b82e4267ca2077b/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/938dee0e15cd919efef3ac50dab0528a/transformed/jetified-common-18.0.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/938dee0e15cd919efef3ac50dab0528a/transformed/jetified-common-18.0.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/ashmeet/.gradle/caches/transforms-3/f46645fd1631e30ab9c5229bdc1dd4f3/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/ashmeet/.gradle/caches/transforms-3/f46645fd1631e30ab9c5229bdc1dd4f3/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/ashmeet/.gradle/caches/transforms-3/8d2a640812bb639aa10836ba5da06125/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/ashmeet/.gradle/caches/transforms-3/8d2a640812bb639aa10836ba5da06125/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/ca27bc47b243d8c14a634eab23fc61fe/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/ca27bc47b243d8c14a634eab23fc61fe/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.camera:camera-camera2:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/17fa7fb3aa1a923077907cd3812443c3/transformed/jetified-camera-camera2-1.1.0/AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-camera2:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/17fa7fb3aa1a923077907cd3812443c3/transformed/jetified-camera-camera2-1.1.0/AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-core:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/5dec9d64e7298f9204ecf0742e26cd3a/transformed/jetified-camera-core-1.1.0/AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-core:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/5dec9d64e7298f9204ecf0742e26cd3a/transformed/jetified-camera-core-1.1.0/AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8196120eb6727bf8972d321e4231c09a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8196120eb6727bf8972d321e4231c09a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/ashmeet/.gradle/caches/transforms-3/010a7088c475d6fbe6b859ee8629d29c/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/ashmeet/.gradle/caches/transforms-3/010a7088c475d6fbe6b859ee8629d29c/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ashmeet/.gradle/caches/transforms-3/b7075175b38bdc3d007a732fee5330a5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ashmeet/.gradle/caches/transforms-3/b7075175b38bdc3d007a732fee5330a5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ashmeet/.gradle/caches/transforms-3/67d7f09918ca2ae894fef057a95fe155/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ashmeet/.gradle/caches/transforms-3/67d7f09918ca2ae894fef057a95fe155/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/dfce43fab7c21ac1c67c664e54d533e7/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/dfce43fab7c21ac1c67c664e54d533e7/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ashmeet/.gradle/caches/transforms-3/886f1cb4e4480429f629c96cc9af73db/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ashmeet/.gradle/caches/transforms-3/886f1cb4e4480429f629c96cc9af73db/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ashmeet/.gradle/caches/transforms-3/d1234e8cab268ef9c3ea97ffc271ef38/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ashmeet/.gradle/caches/transforms-3/d1234e8cab268ef9c3ea97ffc271ef38/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/ashmeet/.gradle/caches/transforms-3/3ac682d18341e1efea52ffe4ec0a6342/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/ashmeet/.gradle/caches/transforms-3/3ac682d18341e1efea52ffe4ec0a6342/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/ashmeet/.gradle/caches/transforms-3/010a7088c475d6fbe6b859ee8629d29c/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:13:7-33
+	android:label
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:12:7-34
+	android:icon
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:11:7-42
+	android:allowBackup
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:10:7-33
+	android:theme
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:14:7-38
+activity#com.google.mlkit.showcase.translate.MainActivity
+ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:15:5-23:16
+	android:screenOrientation
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:18:9-45
+	android:exported
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:17:9-32
+	android:name
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:19:7-22:23
+action#android.intent.action.MAIN
+ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:20:9-61
+	android:name
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:20:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:21:9-69
+	android:name
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:21:19-66
+meta-data#com.google.mlkit.vision.DEPENDENCIES
+ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:25:5-27:31
+	android:value
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:27:9-28
+	android:name
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml:26:9-60
+uses-sdk
+INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml
+MERGED from [androidx.fragment:fragment-ktx:1.4.0] /Users/ashmeet/.gradle/caches/transforms-3/4729139768edc7052fcb88485d0c10f3/transformed/jetified-fragment-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.0] /Users/ashmeet/.gradle/caches/transforms-3/4729139768edc7052fcb88485d0c10f3/transformed/jetified-fragment-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/ashmeet/.gradle/caches/transforms-3/e643e541cdfc5e01579977f180960e39/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/ashmeet/.gradle/caches/transforms-3/e643e541cdfc5e01579977f180960e39/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /Users/ashmeet/.gradle/caches/transforms-3/b696ab3a2de8362115ac77ccd2c93887/transformed/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /Users/ashmeet/.gradle/caches/transforms-3/b696ab3a2de8362115ac77ccd2c93887/transformed/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/ashmeet/.gradle/caches/transforms-3/10ec6a89b1c65a6845e6692012483bcf/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/ashmeet/.gradle/caches/transforms-3/10ec6a89b1c65a6845e6692012483bcf/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/ashmeet/.gradle/caches/transforms-3/6087ac5c0448c0d4b1dba75225b7258d/transformed/constraintlayout-2.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/ashmeet/.gradle/caches/transforms-3/6087ac5c0448c0d4b1dba75225b7258d/transformed/constraintlayout-2.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-view:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/191cd239e170acb42a7e6f034251d194/transformed/jetified-camera-view-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-view:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/191cd239e170acb42a7e6f034251d194/transformed/jetified-camera-view-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/ashmeet/.gradle/caches/transforms-3/acd056d532514b600717ba78b9b3e38d/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/ashmeet/.gradle/caches/transforms-3/acd056d532514b600717ba78b9b3e38d/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ashmeet/.gradle/caches/transforms-3/f615e1e3666c9178d42781cd36e2d317/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ashmeet/.gradle/caches/transforms-3/f615e1e3666c9178d42781cd36e2d317/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/a479b73ea512f11e558324cd425582b5/transformed/jetified-play-services-mlkit-text-recognition-18.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/a479b73ea512f11e558324cd425582b5/transformed/jetified-play-services-mlkit-text-recognition-18.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/eb6aad372ca2d51d8606dd91678889ca/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/eb6aad372ca2d51d8606dd91678889ca/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8e56b0836a2bb7717b82e4267ca2077b/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8e56b0836a2bb7717b82e4267ca2077b/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/938dee0e15cd919efef3ac50dab0528a/transformed/jetified-common-18.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/938dee0e15cd919efef3ac50dab0528a/transformed/jetified-common-18.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/ashmeet/.gradle/caches/transforms-3/f46645fd1631e30ab9c5229bdc1dd4f3/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/ashmeet/.gradle/caches/transforms-3/f46645fd1631e30ab9c5229bdc1dd4f3/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.mlkit:vision-interfaces:16.0.0] /Users/ashmeet/.gradle/caches/transforms-3/e8f71c3a030d9ec87e923bc075a30521/transformed/jetified-vision-interfaces-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-interfaces:16.0.0] /Users/ashmeet/.gradle/caches/transforms-3/e8f71c3a030d9ec87e923bc075a30521/transformed/jetified-vision-interfaces-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/ashmeet/.gradle/caches/transforms-3/8d2a640812bb639aa10836ba5da06125/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/ashmeet/.gradle/caches/transforms-3/8d2a640812bb639aa10836ba5da06125/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/ca27bc47b243d8c14a634eab23fc61fe/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/ca27bc47b243d8c14a634eab23fc61fe/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.4.0] /Users/ashmeet/.gradle/caches/transforms-3/e36a331303d23df16a988b6e9fdf0b4c/transformed/fragment-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.0] /Users/ashmeet/.gradle/caches/transforms-3/e36a331303d23df16a988b6e9fdf0b4c/transformed/fragment-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/ashmeet/.gradle/caches/transforms-3/863247b27265fd62b86e7a13753e5e6c/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/ashmeet/.gradle/caches/transforms-3/863247b27265fd62b86e7a13753e5e6c/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-camera2:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/17fa7fb3aa1a923077907cd3812443c3/transformed/jetified-camera-camera2-1.1.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-camera2:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/17fa7fb3aa1a923077907cd3812443c3/transformed/jetified-camera-camera2-1.1.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-lifecycle:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/82ec1b37394dfbfcf17283c59d9211c8/transformed/jetified-camera-lifecycle-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/82ec1b37394dfbfcf17283c59d9211c8/transformed/jetified-camera-lifecycle-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/5dec9d64e7298f9204ecf0742e26cd3a/transformed/jetified-camera-core-1.1.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-core:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/5dec9d64e7298f9204ecf0742e26cd3a/transformed/jetified-camera-core-1.1.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/ashmeet/.gradle/caches/transforms-3/2231cdb09ab1d4f5ef013f245b872bf8/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/ashmeet/.gradle/caches/transforms-3/2231cdb09ab1d4f5ef013f245b872bf8/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/71f196b057b03c77b769a63127e6df0a/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/71f196b057b03c77b769a63127e6df0a/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/ashmeet/.gradle/caches/transforms-3/ea9d483e80c81d5dde21a7a44fde2a21/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/ashmeet/.gradle/caches/transforms-3/ea9d483e80c81d5dde21a7a44fde2a21/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/ashmeet/.gradle/caches/transforms-3/f8bd146b455a2f843e6d67cc3dd97205/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/ashmeet/.gradle/caches/transforms-3/f8bd146b455a2f843e6d67cc3dd97205/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/eddee3d74d8dcef383ffce1e477b841f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/eddee3d74d8dcef383ffce1e477b841f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /Users/ashmeet/.gradle/caches/transforms-3/0db8e0e9b3d2ca999715d00677db6414/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /Users/ashmeet/.gradle/caches/transforms-3/0db8e0e9b3d2ca999715d00677db6414/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/ashmeet/.gradle/caches/transforms-3/0ac420f127b622a02fb1bba5069f150b/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/ashmeet/.gradle/caches/transforms-3/0ac420f127b622a02fb1bba5069f150b/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/48bc417d4d179a0dfec0ca2da291be6f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/48bc417d4d179a0dfec0ca2da291be6f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/e745d6f2b2eeca6bdd3adead3c0514b1/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/e745d6f2b2eeca6bdd3adead3c0514b1/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8196120eb6727bf8972d321e4231c09a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8196120eb6727bf8972d321e4231c09a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/0a87feb3b1cccbf1f938e6f40e3eb4b2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/0a87feb3b1cccbf1f938e6f40e3eb4b2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/51059321763addebdde096ad9d61f48a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/51059321763addebdde096ad9d61f48a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/07d8400db647b687233dec0ecad0db7e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/07d8400db647b687233dec0ecad0db7e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/45f5936b7791798dac6fd617b7f81156/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/45f5936b7791798dac6fd617b7f81156/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/ashmeet/.gradle/caches/transforms-3/010a7088c475d6fbe6b859ee8629d29c/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/ashmeet/.gradle/caches/transforms-3/010a7088c475d6fbe6b859ee8629d29c/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/7d2e6e6d6c61cd6557d7cd527403feca/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/7d2e6e6d6c61cd6557d7cd527403feca/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/81b67cee160d2f4a9271015c4feeefe5/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/81b67cee160d2f4a9271015c4feeefe5/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/ashmeet/.gradle/caches/transforms-3/9c2d4f94859a1a37bb421094b2616e0b/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/ashmeet/.gradle/caches/transforms-3/9c2d4f94859a1a37bb421094b2616e0b/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/ashmeet/.gradle/caches/transforms-3/9cf72e2f5814752e723f32ebf91eb52e/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/ashmeet/.gradle/caches/transforms-3/9cf72e2f5814752e723f32ebf91eb52e/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/ashmeet/.gradle/caches/transforms-3/8d4e9b96718e9719aaccff952726656e/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/ashmeet/.gradle/caches/transforms-3/8d4e9b96718e9719aaccff952726656e/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ashmeet/.gradle/caches/transforms-3/b7075175b38bdc3d007a732fee5330a5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ashmeet/.gradle/caches/transforms-3/b7075175b38bdc3d007a732fee5330a5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/ashmeet/.gradle/caches/transforms-3/217100170a0368c6e5870a7bd8759e4c/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/ashmeet/.gradle/caches/transforms-3/217100170a0368c6e5870a7bd8759e4c/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ashmeet/.gradle/caches/transforms-3/2b7383152587b693263cdace0114c8e9/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ashmeet/.gradle/caches/transforms-3/2b7383152587b693263cdace0114c8e9/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/ashmeet/.gradle/caches/transforms-3/46ddbf4191780b2d7e612100f0bd2ac8/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/ashmeet/.gradle/caches/transforms-3/46ddbf4191780b2d7e612100f0bd2ac8/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ashmeet/.gradle/caches/transforms-3/67d7f09918ca2ae894fef057a95fe155/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ashmeet/.gradle/caches/transforms-3/67d7f09918ca2ae894fef057a95fe155/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/dfce43fab7c21ac1c67c664e54d533e7/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/dfce43fab7c21ac1c67c664e54d533e7/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/19a7cb87f52b52d5d8fa2f53aabf74d1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/19a7cb87f52b52d5d8fa2f53aabf74d1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ashmeet/.gradle/caches/transforms-3/886f1cb4e4480429f629c96cc9af73db/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ashmeet/.gradle/caches/transforms-3/886f1cb4e4480429f629c96cc9af73db/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ashmeet/.gradle/caches/transforms-3/d1234e8cab268ef9c3ea97ffc271ef38/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ashmeet/.gradle/caches/transforms-3/d1234e8cab268ef9c3ea97ffc271ef38/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/ashmeet/.gradle/caches/transforms-3/5ff7299f7f5234017af6dbe4b23087a4/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/ashmeet/.gradle/caches/transforms-3/5ff7299f7f5234017af6dbe4b23087a4/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/ashmeet/.gradle/caches/transforms-3/0ff7492f3eca726568bbb749d84bba78/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/ashmeet/.gradle/caches/transforms-3/0ff7492f3eca726568bbb749d84bba78/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/ashmeet/.gradle/caches/transforms-3/48f2fa7ee089970e88bb7eb1986856fb/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/ashmeet/.gradle/caches/transforms-3/48f2fa7ee089970e88bb7eb1986856fb/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/576778f036f505fdd2883bd691bc1fb6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/576778f036f505fdd2883bd691bc1fb6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/5b06717db7564881b7d4052b6972a133/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/5b06717db7564881b7d4052b6972a133/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/ashmeet/.gradle/caches/transforms-3/3ac682d18341e1efea52ffe4ec0a6342/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/ashmeet/.gradle/caches/transforms-3/3ac682d18341e1efea52ffe4ec0a6342/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ashmeet/Downloads/mlkit-master/android/translate-showcase/app/src/main/AndroidManifest.xml
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/eb6aad372ca2d51d8606dd91678889ca/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8e56b0836a2bb7717b82e4267ca2077b/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8e56b0836a2bb7717b82e4267ca2077b/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/938dee0e15cd919efef3ac50dab0528a/transformed/jetified-common-18.0.0/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/938dee0e15cd919efef3ac50dab0528a/transformed/jetified-common-18.0.0/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/eb6aad372ca2d51d8606dd91678889ca/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/938dee0e15cd919efef3ac50dab0528a/transformed/jetified-common-18.0.0/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/938dee0e15cd919efef3ac50dab0528a/transformed/jetified-common-18.0.0/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/eb6aad372ca2d51d8606dd91678889ca/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.text.internal.TextRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/eb6aad372ca2d51d8606dd91678889ca/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/eb6aad372ca2d51d8606dd91678889ca/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/eb6aad372ca2d51d8606dd91678889ca/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8e56b0836a2bb7717b82e4267ca2077b/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8e56b0836a2bb7717b82e4267ca2077b/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:17.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8e56b0836a2bb7717b82e4267ca2077b/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/938dee0e15cd919efef3ac50dab0528a/transformed/jetified-common-18.0.0/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/938dee0e15cd919efef3ac50dab0528a/transformed/jetified-common-18.0.0/AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/938dee0e15cd919efef3ac50dab0528a/transformed/jetified-common-18.0.0/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/938dee0e15cd919efef3ac50dab0528a/transformed/jetified-common-18.0.0/AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/938dee0e15cd919efef3ac50dab0528a/transformed/jetified-common-18.0.0/AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/938dee0e15cd919efef3ac50dab0528a/transformed/jetified-common-18.0.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/938dee0e15cd919efef3ac50dab0528a/transformed/jetified-common-18.0.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/938dee0e15cd919efef3ac50dab0528a/transformed/jetified-common-18.0.0/AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/ashmeet/.gradle/caches/transforms-3/f46645fd1631e30ab9c5229bdc1dd4f3/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/ashmeet/.gradle/caches/transforms-3/f46645fd1631e30ab9c5229bdc1dd4f3/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/ashmeet/.gradle/caches/transforms-3/f46645fd1631e30ab9c5229bdc1dd4f3/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/ashmeet/.gradle/caches/transforms-3/f46645fd1631e30ab9c5229bdc1dd4f3/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/ca27bc47b243d8c14a634eab23fc61fe/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/ca27bc47b243d8c14a634eab23fc61fe/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/ashmeet/.gradle/caches/transforms-3/ca27bc47b243d8c14a634eab23fc61fe/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/17fa7fb3aa1a923077907cd3812443c3/transformed/jetified-camera-camera2-1.1.0/AndroidManifest.xml:26:9-35:19
+MERGED from [androidx.camera:camera-core:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/5dec9d64e7298f9204ecf0742e26cd3a/transformed/jetified-camera-core-1.1.0/AndroidManifest.xml:31:9-35:78
+MERGED from [androidx.camera:camera-core:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/5dec9d64e7298f9204ecf0742e26cd3a/transformed/jetified-camera-core-1.1.0/AndroidManifest.xml:31:9-35:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/17fa7fb3aa1a923077907cd3812443c3/transformed/jetified-camera-camera2-1.1.0/AndroidManifest.xml:31:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/17fa7fb3aa1a923077907cd3812443c3/transformed/jetified-camera-camera2-1.1.0/AndroidManifest.xml:28:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/17fa7fb3aa1a923077907cd3812443c3/transformed/jetified-camera-camera2-1.1.0/AndroidManifest.xml:29:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/17fa7fb3aa1a923077907cd3812443c3/transformed/jetified-camera-camera2-1.1.0/AndroidManifest.xml:30:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/17fa7fb3aa1a923077907cd3812443c3/transformed/jetified-camera-camera2-1.1.0/AndroidManifest.xml:27:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/17fa7fb3aa1a923077907cd3812443c3/transformed/jetified-camera-camera2-1.1.0/AndroidManifest.xml:32:13-34:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/17fa7fb3aa1a923077907cd3812443c3/transformed/jetified-camera-camera2-1.1.0/AndroidManifest.xml:34:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.1.0] /Users/ashmeet/.gradle/caches/transforms-3/17fa7fb3aa1a923077907cd3812443c3/transformed/jetified-camera-camera2-1.1.0/AndroidManifest.xml:33:17-103
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8196120eb6727bf8972d321e4231c09a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ashmeet/.gradle/caches/transforms-3/b7075175b38bdc3d007a732fee5330a5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ashmeet/.gradle/caches/transforms-3/b7075175b38bdc3d007a732fee5330a5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/dfce43fab7c21ac1c67c664e54d533e7/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/dfce43fab7c21ac1c67c664e54d533e7/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8196120eb6727bf8972d321e4231c09a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8196120eb6727bf8972d321e4231c09a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8196120eb6727bf8972d321e4231c09a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8196120eb6727bf8972d321e4231c09a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8196120eb6727bf8972d321e4231c09a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8196120eb6727bf8972d321e4231c09a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/ashmeet/.gradle/caches/transforms-3/8196120eb6727bf8972d321e4231c09a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ashmeet/.gradle/caches/transforms-3/b7075175b38bdc3d007a732fee5330a5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ashmeet/.gradle/caches/transforms-3/b7075175b38bdc3d007a732fee5330a5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ashmeet/.gradle/caches/transforms-3/b7075175b38bdc3d007a732fee5330a5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ashmeet/.gradle/caches/transforms-3/886f1cb4e4480429f629c96cc9af73db/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ashmeet/.gradle/caches/transforms-3/d1234e8cab268ef9c3ea97ffc271ef38/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ashmeet/.gradle/caches/transforms-3/d1234e8cab268ef9c3ea97ffc271ef38/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ashmeet/.gradle/caches/transforms-3/886f1cb4e4480429f629c96cc9af73db/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ashmeet/.gradle/caches/transforms-3/886f1cb4e4480429f629c96cc9af73db/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ashmeet/.gradle/caches/transforms-3/886f1cb4e4480429f629c96cc9af73db/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ashmeet/.gradle/caches/transforms-3/886f1cb4e4480429f629c96cc9af73db/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ashmeet/.gradle/caches/transforms-3/886f1cb4e4480429f629c96cc9af73db/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ashmeet/.gradle/caches/transforms-3/d1234e8cab268ef9c3ea97ffc271ef38/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ashmeet/.gradle/caches/transforms-3/d1234e8cab268ef9c3ea97ffc271ef38/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ashmeet/.gradle/caches/transforms-3/d1234e8cab268ef9c3ea97ffc271ef38/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ashmeet/.gradle/caches/transforms-3/d1234e8cab268ef9c3ea97ffc271ef38/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ashmeet/.gradle/caches/transforms-3/d1234e8cab268ef9c3ea97ffc271ef38/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ashmeet/.gradle/caches/transforms-3/d1234e8cab268ef9c3ea97ffc271ef38/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/ashmeet/.gradle/caches/transforms-3/d1234e8cab268ef9c3ea97ffc271ef38/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
